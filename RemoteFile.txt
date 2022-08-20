@@ -1,4 +1,7 @@
 Change 1 in Remote File
 Change 2 in Remote File
+<<<<<<< HEAD
 Change 3 in Local for remote
 Change 4 in Local for remote
+Change 3 in remote from remote
+Change 4 in remote from remote
