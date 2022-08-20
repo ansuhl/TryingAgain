@@ -2,3 +2,4 @@ Change 1
 Change 2
 Change 1 for bug 1 from master
 Change 1 for bug 1 from bug
+Stash1
