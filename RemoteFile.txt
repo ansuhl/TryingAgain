@@ -5,3 +5,5 @@ Change 3 in Local for remote
 Change 4 in Local for remote
 Change 3 in remote from remote
 Change 4 in remote from remote
+Change  contra to rem1
+Change contra to rem2
